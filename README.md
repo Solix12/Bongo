@@ -1,1 +1,1 @@
-"# Bongo" 
+Bongo odamlar uchun ijtimoiy tarmoq 
