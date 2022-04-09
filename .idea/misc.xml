@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable-v24/green_shape.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/card_bg.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/chek_like.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/dialog_bg.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/edit_text_bg.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/edit_text_coment.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_add.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_add_border.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_cancle.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_chat.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_email.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_home.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_home_border.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_like.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_like_border.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_menu.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_more.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_notif.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_notification.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_notifikation.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_password.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_profile.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_profile_border.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_profile_nob.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_round_add_circle_24.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_save.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_search.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_send_comment.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/ic_serch_border.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/log_in_btn.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/my_profile_btn.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/progress_bar.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/sing_up_btn.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/drawable/splash_bg.xml" value="0.213" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout-v31/home_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_fragmen_replayis.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_fragment_replace.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_post_view.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_replacer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_story_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/activity_view_story.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/comment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_add.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_chose.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_comment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_create_accaunt.xml" value="0.264" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_forgot.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_log_in.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/fragment_search.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/home_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/image_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/load_dialog.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/profile_image_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/stories_item.xml" value="0.2" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/layout/user_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1975" />
+        <entry key="..\:/Android lessons/Bongo/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.124" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
